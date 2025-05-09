@@ -28,13 +28,6 @@ Welcome to my GitHub profile! I turn **raw data into impactful insights** and bu
 
 ---
 
-## 📈 My Recent Projects
-
-- 🏨 **Hospitality Revenue Analysis** — In-depth revenue trends and occupancy insights  
-- 💼 **Sales Insights Dashboard** — Power BI dashboard highlighting regional and product-level trends  
-- 🧠 **Customer Churn Analysis** — Predictive modeling to identify at-risk customers  
-- 🏅 **Olympics History EDA** — Exploratory analysis of historical Olympic data across countries, sports, and athletes  
-
 🔗 [Explore My Repositories](https://github.com/Nainsyy?tab=repositories)
 
 ---
@@ -48,7 +41,6 @@ Welcome to my GitHub profile! I turn **raw data into impactful insights** and bu
 
 ---
 
->**“In God we trust. All others must bring data.” — W. Edwards Deming**
 
 
 
