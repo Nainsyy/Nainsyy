@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I turn **raw data into impactful insights** and bu
 - Data Visualization & Dashboards
 - Business Intelligence
 
-🌱 **Currently Learning**: Deep Dive into SQL Optimization
+🌱 **Currently Learning**: Prediction Analysis and Deep Dive into SQL Optimization
 
 ---
 
